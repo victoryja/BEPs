@@ -69,7 +69,7 @@ Here is the list of subjects of BEPs:
 | [BEP-341](./BEPs/BEP-341.md) | Validators can produce consecutive blocks                  | Standards | Enabled  |
 | [BEP-342](./BEPs/BEP-342.md) | Implement EIP-5656: MCOPY                                 | Standards | Enabled |
 | [BEP-343](./BEPs/BEP-343.md) | Implement EIP-1153: Transient storage opcodes             | Standards | Enabled |
-| [BEP-344](./BEPs/BEP-344.md) | Implement EIP-6780: SELFDESTRUCT only in same transaction | Standards | Enabled |
+| [BEP-344](./BEPs/BEP-344.md) | Implement EIP-6780: SELFDESTRUCT only in same transaction | Standards | Enabled | bnb18sdn0g885jhvkyzp9emrxwvxkut97ka2nfmpjx
 | [BEP-345](./BEPs/BEP-345.md) | Implement EIP-7516: BLOBBASEFEE opcode                    | Standards | Enabled |
 | [BEP-346](./BEPs/BEP-346.md) | Streamline off-chain authentication on Greenfield         | Standards | Enabled     |
 | [BEP-362](./BEPs/BEP-362.md) | Greenfield Storage Fee Paymaster                          | Standards | Enabled |
